@@ -1,19 +1,19 @@
 # ezagent42
 
-Claude Code plugin marketplace.
+Claude Code 插件市场。
 
-## Install
+## 安装
 
 ```bash
-# 1. Add marketplace
+# 1. 添加市场
 /plugin marketplace add ezagent42/ezagent42
 
-# 2. Install a plugin
+# 2. 安装插件
 /plugin install feishu@ezagent42
 ```
 
-## Plugins
+## 插件列表
 
-| Plugin | Description |
-|--------|-------------|
-| **feishu** | Feishu (Lark) channel for Claude Code — receive and reply to Feishu messages via WSClient long connection |
+| 插件 | 说明 |
+|------|------|
+| **feishu** | 飞书 Channel — 通过 WSClient 长连接收发飞书消息 |
