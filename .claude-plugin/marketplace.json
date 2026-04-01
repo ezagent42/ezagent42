@@ -16,6 +16,15 @@
         "source": "github",
         "repo": "ezagent42/feishu-claude-code-channel"
       }
+    },
+    {
+      "name": "zchat",
+      "description": "IRC channel for Claude Code — reply, join, dm, broadcast via slash commands",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "ezagent42/claude-zchat-channel"
+      }
     }
   ]
 }
