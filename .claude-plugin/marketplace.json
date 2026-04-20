@@ -34,6 +34,15 @@
         "source": "github",
         "repo": "ezagent42/dev-loop-skills"
       }
+    },
+    {
+      "name": "prd2impl",
+      "description": "PRD-to-Implementation pipeline — 14 skills for planning, task generation, parallel batch dispatch, and milestone verification",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "ezagent42/prd2impl"
+      }
     }
   ]
 }
