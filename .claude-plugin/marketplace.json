@@ -28,8 +28,8 @@
     },
     {
       "name": "dev-loop-skills",
-      "description": "AI-driven development pipeline — 7 skills for test-driven dev loop (bootstrap, plan, write, run, evaluate)",
-      "version": "0.1.0",
+      "description": "AI-driven development pipeline — 7 skills for test-driven dev loop (bootstrap, plan, write, run, evaluate). v0.2: Skill 1 ships with self-update.sh for drift detection + 3-layer self-evolution (check / refresh / rebootstrap).",
+      "version": "0.2.0",
       "source": {
         "source": "github",
         "repo": "ezagent42/dev-loop-skills"
