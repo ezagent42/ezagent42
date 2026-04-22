@@ -37,8 +37,8 @@
     },
     {
       "name": "prd2impl",
-      "description": "PRD-to-Implementation pipeline — 14 skills for planning, task generation, parallel batch dispatch, and milestone verification. Per-scope plans_dir isolation for parallel milestones. design-spec → prd-structure.yaml ingest bridge for superpowers integration.",
-      "version": "0.2.2",
+      "description": "PRD-to-Implementation pipeline — 14 skills for planning, task generation, parallel batch dispatch, and milestone verification. Per-scope plans_dir isolation for parallel milestones. design-spec → prd-structure.yaml ingest bridge with B2 task-gen degradation + opt-in user_stories synthesis. M3-retro skill instruction refinements (R11/R15/L-B).",
+      "version": "0.3.1",
       "source": {
         "source": "github",
         "repo": "ezagent42/prd2impl"
