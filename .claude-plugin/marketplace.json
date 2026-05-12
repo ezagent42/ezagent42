@@ -37,8 +37,8 @@
     },
     {
       "name": "prd2impl",
-      "description": "PRD-to-Implementation pipeline — 14 skills for planning, task generation, parallel batch dispatch, and milestone verification. Per-scope plans_dir isolation for parallel milestones. v0.4.1: plan-passthrough — superpowers:writing-plans-format md is first-class input (no YAML round-trip loss). 1 plan-file = 1 prd2impl task; /start-task delegates whole plan to superpowers:subagent-driven-development / executing-plans. skill-9 shows per-plan step progress; skill-10 cross-checks plan-declared files vs git diff (missing_create / declared_modify_not_modified → NO-GO).",
-      "version": "0.4.1",
+      "description": "PRD-to-Implementation pipeline — 14 skills for planning, task generation, parallel batch dispatch, and milestone verification. Per-scope plans_dir isolation for parallel milestones. v0.5.0: PRD-entry × superpowers bridge — skill-1 Phase 0.5 ambiguity detection via superpowers:brainstorming; skill-4 Step 4.5 per-task plan generation via superpowers:writing-plans, every task gains source_plan_path → Entry A tasks auto-flow through plan-passthrough.",
+      "version": "0.5.0",
       "source": {
         "source": "github",
         "repo": "ezagent42/prd2impl"
